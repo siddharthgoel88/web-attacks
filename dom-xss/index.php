@@ -23,16 +23,9 @@
 		<script>
 			console.log("Hello");
 
-		//	function sayHello() {
-				if (document.location.href.indexOf("#name") != -1) {
-					//var node = document.createElement("");
-					//var msg = document.createTextNode("Hello " + document.location.href.substring(document.location.href.indexOf("#name=")+6) + " !!");
-					//node.appendChild(msg);
-					//document.getElementById("hello_message").appendChild(node);
-					//document.getElementById("hello_message").value = "Hello";
-					document.write(decodeURIComponent("Hello " + document.location.href.substring(document.location.href.indexOf("#name=")+6) + " !!"));
-				}
-		//	}
+			if (document.location.href.indexOf("#name") != -1) {
+				document.write(decodeURIComponent("Hello " + document.location.href.substring(document.location.href.indexOf("#name=")+6) + " !!"));
+			}
 			
 			function welcomeUser() {
 				var lastIndex = -1;

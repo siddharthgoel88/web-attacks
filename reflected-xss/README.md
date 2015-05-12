@@ -1,17 +1,16 @@
 # Reflected XSS
 
 ### What is it?
-As the name suggests, in this attack the attack payload goes to the server through the victim's browser as request and in response returns a page which conta
-ins the malicious script. The attack payload hence runs of the victim's browser and sends sensitive information (mostly cookies) to the attacker.
+As the name suggests, in this attack the attack payload goes to the server through the victim's browser as request and in response returns a page which contains the malicious script. The attack payload hence runs of the victim's browser and sends sensitive information (mostly cookies) to the attacker.
 
 The attacker can be very innovative in sending that malicious link to the victim. So of the famous channels are phishing e-mails, advertisements on malicious
  websites, etc.
 
 ### Diagram
-<Need to all diagram>
+Need to all diagram !!
 
 ### Attack vector
-<Need to fill info here>
+Need to fill info here !!
 
 ### How to Prevent it?
 - Sanitize input and output.

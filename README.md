@@ -6,7 +6,11 @@ This repository is for educational purpose which showcases some of the famous we
 ### Which all attacks does it cover?
 - DOM Based XSS
 - Local file inclusion
+- Parameter tampering
+- Reflected XSS
 - Remote code execution
+- Remote file inclusion
+- Unvalidated redirects and forwards
 
 ### Can I contribute to this project?
 Absolutely !! Contributions are welcomed through Pull Requests. But a couple of points before you send your contribution :-

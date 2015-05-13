@@ -11,3 +11,7 @@ This repository is for educational purpose which showcases some of the famous we
 ### Can I contribute to this project?
 Absolutely !! Contributions are welcomed through Pull Requests. But a couple of points before you send your contribution :-
 - The coding style, directory structure, README.md and all other formats should match to the existing style of repository.
+
+### Disclaimer
+This education is for educational purpose only. Developers and contributers of this project will not be responsible for any damage caused directly or indirectly through this project.
+
